@@ -1,0 +1,33 @@
+h1,
+h3,
+li,
+p {
+    font-family: Arial, sans-serif;
+}
+
+h3 {
+    font-size: 28px;
+}
+.maintitle {
+    background-color: blue;
+    color: orange;
+    font-family: Arial, sans-serif;
+    text-align: center;
+    font-size: 48px;
+}
+
+.mainpage {
+    text-align: center;
+    color: orange;
+    font-size: 28px;
+    font-family: Arial, sans-serif;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+.homebutton {
+    color: orange;
+}
